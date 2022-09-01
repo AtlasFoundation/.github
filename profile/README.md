@@ -8,7 +8,7 @@ Core expertise in
 [Machine Learning](https://github.com/AtlasFoundation/AutomaticTikTalk),
 [Intelligent Agents](https://github.com/AtlasFoundation/Digital-Beings), 
 [3D design](https://github.com/AtlasFoundation/Magrathea), 
-[Blockchain, NFTs](https://github.com/AtlasFoundation/IC-Avatar-Creator), 
+[Digital Assets](https://github.com/AtlasFoundation/IC-Avatar-Creator), 
 [Gaming](https://github.com/AtlasFoundation/XREngine). 
 
 We create 3D worlds optimized for browser based augmented and virtual reality experiences. We are united by a passion to create a better world both in virtual spaces and in our real communities. We envision a future where technology serves to unite us.

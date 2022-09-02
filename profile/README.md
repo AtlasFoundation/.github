@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/64185677/187881932-87c2b005-cd6e-4aff-a78d-46d654f255c3.png)
 # Atlas Foundation
-**Building a better future by mapping new worlds**
+
+**Building better worlds and mapping our future with AI/ML in 3D.**
 
 Atlas Foundation is a web3 collective focused on innovative technologies. We chose Atlas as our symbol because we are building the back bone technologies that enable new worlds in digital, virtual, and augmented reality.
 Core expertise in 

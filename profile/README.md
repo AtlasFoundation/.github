@@ -18,5 +18,5 @@ We create 3D worlds optimized for browser based augmented and virtual reality ex
 
 👩‍💻 If you fork us please share your new twist! We'd love to see what you build.  
 
-🪙 Support Us- Contribute To [Atlas Foundation](https://opencollective.com/atlas-foundation)
+🪙 Support Us- [Contribute To Atlas Foundation](https://opencollective.com/atlas-foundation)
 
